@@ -6,9 +6,13 @@ Minh, Joshua, Pranav, Julian
 
 ## Roles and Responsibilities
 Pranav: Exercise 1, Exercise 5
+
 Joshua: Exercise 2, Exercise 5, Meeting Minutes
+
 Minh: Exercise 3, Exercise 5
+
 Julian: Exercise 4, Exercise 5
+
 
 ## Project Overview
 
