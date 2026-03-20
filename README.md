@@ -48,6 +48,7 @@ Julian: Exercise 4, Exercise 5
 ## Exercise 3 - One Line Descriptor
 
 ### Summary
+This exercise implements UART serial communication on the STM32F3 Discovery board using assembly. The program configures the UART peripheral, transmits data through the serial interface, and verifies correct operation using a terminal on a laptop. The aim of this exercise is to demonstrate understanding of asynchronous serial communication, UART configuration, polling-based transmission, and baud-rate selection. 
 
 ### Usage
 
